@@ -1,2 +1,2 @@
-# flask-cicd-app
-Flask CI/CD Pipeline Application
+# AWS CodePipeline and Elastic Beanstalk 
+Exercise
